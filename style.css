@@ -106,6 +106,7 @@ body{
 .sc{
     margin-top: 15%;
     margin-left: 5%;
+    margin-bottom: 10%;
 
     color: white;
 }
@@ -124,6 +125,24 @@ body{
     margin-left: auto;
 }
 
+#st{
+    margin-top: 6%;
+    
+}
+#st iframe{
+    width: 90%;
+    height: 900px;
+    
+    margin-right: 5%;
+    margin-left: 5%;
+
+    border-radius: 50px;
+    border: 1px solid black;
+}
+
+.g{
+    border-top: 1px solid white;
+}
 
 /*animations*/
 @keyframes hov{
