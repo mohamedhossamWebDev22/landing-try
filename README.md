@@ -1,2 +1,2 @@
 # landing-try
-try to make landing pageusing html,css,js
+try to make landing page using html,css,js
