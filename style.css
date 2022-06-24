@@ -172,7 +172,7 @@ body{
 .about{
     text-align: center;
 
-    margin-top: 2%;
+    margin-top: 5%;
 
     background-color: black;
     
@@ -300,3 +300,25 @@ hr{color: white;}
 }
 
 /*responsive*/
+@media screen and (max-width: 500px){
+    .img img{
+        width: 400px;
+
+        float: none;
+    }
+
+    .img{
+        text-align: center;
+    }
+
+    #st iframe{
+        width: 100%;
+
+        margin-right: 0%;
+        margin-left: 0%;
+    }
+
+    .navbar ul li a{
+        font-size: 8px;
+    }
+}
